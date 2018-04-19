@@ -62,10 +62,6 @@ header('Content-Type: application/json');
             
             ');
             break;
-        // Match on dev
-        case 'dev':
-            bot_respond("I have a million ideas. They all point to certain death.\ntext = $req");
-            break;
         // Match on anything else
         default:
             bot_respond("I’d give you advice, but you wouldn’t listen. No one ever does.\n`/marvin help`.");
