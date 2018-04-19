@@ -21,11 +21,11 @@ Create a new Slash Command in Slack and point it to the .php file, for example h
 
 #### Examples
 
-`/marvin lunch` will provide a list of local lunch restaurants, as well as a bonus on fridays!
+`/marvin lunch` will provide a list of local lunch restaurants, as well as a bonus on fridays! - [marvin.php](/example/marvin.php)
 
 ![marvin](/example/marvin-example.jpg)
 
-`/at T12341212.1234` will provide handy links to open the corresponding Ticket or Task in Autotask PSA.
+`/at T12341212.1234` will provide handy links to open the corresponding Ticket or Task in Autotask PSA. - [at.php](/example/at.php)
 
 ![at](/example/at-example.jpg)
 
