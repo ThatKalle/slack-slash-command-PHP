@@ -1,7 +1,8 @@
 <?php
     $valid_tokens = array(
         // Add token from Slack - https://api.slack.com/apps/XXXXXXXXXX/general?
-        "11vNqNWy22Um4zZ9vNq33yp4"
+        "11vNqNWy22Um4zZ9vNq33yp4",
+        "EySr117eN33eDAf22K4455L4"
     );
 
     if (empty($_REQUEST['token'])) {
